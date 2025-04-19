@@ -121,7 +121,6 @@ http://192.168.56.105/includes/
 ```
 
 #isee the search bar with damn open try to make sql jocks
-![[Screenshot From 2025-03-28 17-44-43.png]]
 
 ```
 ' --  >>> failed
@@ -130,10 +129,9 @@ http://192.168.56.105/includes/
 ```
 
 # jump into burb
-![[Screenshot From 2025-03-28 17-48-47.png]]
-SQLmap
+SQLmap!
+[Screenshot From 2025-03-28 17-48-47](https://github.com/user-attachments/assets/7940bc7c-64d4-4768-b8a3-282b81453a23)
 
-![[Screenshot From 2025-03-28 17-50-13.png]]
 
 ## database cracked
 
