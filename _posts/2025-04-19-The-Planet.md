@@ -16,3 +16,6 @@ mmmmh
 > Continue moving kid
 {: .prompt-tip }
 
+> Continue moving kid
+{: .prompt-tip }
+
