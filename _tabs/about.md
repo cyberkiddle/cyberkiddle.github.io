@@ -31,8 +31,12 @@ Hi Am Cyberkiddle, a Red Team enthusiast with a strong focus on offensive securi
 
 ---
 
-- Linkedin: [Rodgers Omben]
+- Linkedin: [Rodgers Omben] https://www.linkedin.com/in/rodgers-omben-29120b2b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
+- Website: [cyberkiddle] https://cyberkiddle.com
+
+> Email : cyberkid6226@gmail.com
 ---
 
-💀 Break and Secure.
+> What i can do
+☠️ I can Break, Audit and Secure. ☠️
