@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Planet
+title: The-smallest-Planet
 date: 05-04-2025
-categories: [Techniques]
+categories: [Basics]
 tags: [planet]
 image: "https://cdn.canardware.com/2025/03/31193442/South-of-Midnight-00-422x251.jpg"
 ---
