@@ -6,6 +6,8 @@ order: 4
 
 ### Rodgers Omben
 > Red teaming kiddle
+{: .prompt-danger }
+
 
 <aside>
 Hi Am Cyberkiddle, a Red Team enthusiast with a strong focus on offensive security. My main interests revolve around penetration testing, Reverse engneering, wireless security, bug hunting, and playing Capture The Flag (CTF) challenges.
@@ -31,11 +33,17 @@ Join: https://t.me/cyberkid_rona_planet
 > INE Certified Cloud Associate - ICCA
 {: .prompt-tip }
 
-## Projects 
+## Projects I have ever made.
+> Visite my github
+{: .prompt-tip }
+
 
 ---
 
-- Linkedin: [Rodgers Omben]
+- Contact Whatsapp
+> +255688115216
+{: .prompt-tip }
+
 
 ---
 
