@@ -16,6 +16,8 @@ Hi Am Cyberkiddle, a Red Team enthusiast with a strong focus on offensive securi
 > Telegram
 Join: https://t.me/cyberkid_rona_planet
 {: .prompt-danger }
+> Website
+{: .prompt-danger }
 
 
 ## Certifications 
@@ -37,12 +39,5 @@ Join: https://t.me/cyberkid_rona_planet
 
 ---
 
-💀 Break and Secure.
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+> 💀 Break and Secure.
 {: .prompt-tip }
