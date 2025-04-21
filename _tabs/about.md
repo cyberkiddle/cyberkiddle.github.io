@@ -26,13 +26,17 @@ Join: https://cyberkiddle.com
 ## Certifications 
 
 > eLearnSecurity Junior Penetration Tester - eJPT
+[Junior Penetration Tester.pdf](https://github.com/user-attachments/files/19832148/Junior.Penetration.Tester.pdf)
+{: .prompt-tip }
+
+> INE Certified Cloud Associate - ICCA
+[INE Certified Cloud Associate.pdf](https://github.com/user-attachments/files/19832146/INE.Certified.Cloud.Associate.pdf)
 {: .prompt-tip }
 
 > CWL Certified Red Team Analyst - CRTA
 {: .prompt-danger }
 
-> INE Certified Cloud Associate - ICCA
-{: .prompt-tip }
+
 
 ## Projects I have ever made.
 > Visite my github
