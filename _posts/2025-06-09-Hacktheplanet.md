@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Elliot
+title: Hack the planet
 date: 09-05-2025
 categories: [medium]
 tags: [commandinjection, wget]
