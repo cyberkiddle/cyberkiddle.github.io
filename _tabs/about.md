@@ -2,6 +2,7 @@
 # the default layout is 'page'
 title: Whoami
 icon: fas fa-info-circle
+tags: [Kiddle]
 order: 4
 ---
 
@@ -38,7 +39,8 @@ Hi Am Cyberkiddle, a Red Team enthusiast with a strong focus on offensive securi
 > CWL Certified Red Team Analyst - CRTA
 {: .prompt-danger }
 
-
+> PT1 TryHack me
+{: .prompt-tip }
 
 ## Projects I have ever made.
 > Visite my github
