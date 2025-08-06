@@ -4,7 +4,7 @@ title: Whoami
 icon: fas fa-info-circle
 tags: [Kiddle]
 order: 4
-image: "https://diesec.com/wp-content/uploads/2024/12/pentest-1.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKlXiiTZQFBSUUefUCkOh4F1SK-FHRQm_5Qw&s"
+image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzgLSbmgYxJMTJcUwssl1hmgjJjLsURQsWjg&s"
 ---
 
 ### Rodgers Omben
