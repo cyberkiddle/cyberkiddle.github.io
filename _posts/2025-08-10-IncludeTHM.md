@@ -180,8 +180,11 @@ Nmap done: 1 IP address (1 host up) scanned in 98.51 seconds
 <img width="1296" height="916" alt="Screenshot From 2025-08-10 07-18-57" src="https://github.com/user-attachments/assets/986ae3b6-3490-41d5-be8c-901a044cdbb2" />
 <img width="890" height="541" alt="Screenshot From 2025-08-10 07-50-47" src="https://github.com/user-attachments/assets/5c15bbb8-3ee8-4efc-8024-4337f7fe8099" />
 
+```
+http://10.10.64.179:4000/signin
+http://10.10.64.179:4000/signin
+```
 
-[http://10.10.64.179:4000/signin](http://10.10.64.179:4000/signin)
 i foudn the login page here and try to use the credentials found on the page that was guest/guest and successfully loged in
 
 ```
