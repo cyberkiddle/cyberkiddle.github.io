@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Include ADV.APP
+title: Include-ADV.APP
 date: 10-08-2025
 categories: [Basics]
 tags: [LFI, RCE]
