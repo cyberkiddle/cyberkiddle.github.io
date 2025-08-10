@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Include ADV.APP
-date: 19-04-2025
-categories: [Medium]
+date: 10-08-2025
+categories: [Basics]
 tags: [LFI, RCE]
 image: "https://cdn.prod.website-files.com/685c900b0c490f1ae20e1953/686e9de66b4e5d36e5dc4400_The%20Hidden%20Dangers%20of%20Overexposed%20Data_%20What%20Hackers%20Look%20For.jpg"
 ---
