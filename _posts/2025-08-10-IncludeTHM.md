@@ -252,6 +252,8 @@ We are in dude
 
 
 Viewing the source page If you cant try use chrome or disable the javascript[js] in briowser
+<img width="1915" height="485" alt="Screenshot From 2025-08-10 08-03-02" src="https://github.com/user-attachments/assets/108a676f-065a-477f-b610-a58319338462" />
+
 
 <img width="1915" height="485" alt="Screenshot From 2025-08-10 07-52-10" src="https://github.com/user-attachments/assets/78bf6c2f-615b-4de5-a8a6-6357c6d02da5" />
 
@@ -270,7 +272,6 @@ lets use burp
 
 i try apache2 log poisone but i remembed there was 25 port open lets try to access /var/log/mail.log
 
-<img width="1915" height="485" alt="Screenshot From 2025-08-10 08-03-02" src="https://github.com/user-attachments/assets/108a676f-065a-477f-b610-a58319338462" />
 
 ```
 ~/Desktop/redteam/THM/include » telnet 10.10.64.179 25                                             130 ↵ cyberkid@kali
