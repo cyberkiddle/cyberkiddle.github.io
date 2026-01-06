@@ -1,10 +1,9 @@
 ---
 # the default layout is 'page'
-title: Modules
-icon: fas  fa-lock
-tags: [Kiddle]
+title: Advanced
+icon: fas fa-lock
+tags: [mdules]
 order: 4
-image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzgLSbmgYxJMTJcUwssl1hmgjJjLsURQsWjg&s"
 ---
 
 ## Advanced Penetration testing
