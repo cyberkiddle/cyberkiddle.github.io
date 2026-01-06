@@ -3,7 +3,7 @@
 title: Whoami
 icon: fas fa-info-circle
 tags: [Kiddle]
-order: 4
+order: 5
 image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzgLSbmgYxJMTJcUwssl1hmgjJjLsURQsWjg&s"
 ---
 
