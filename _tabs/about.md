@@ -46,6 +46,9 @@ Hi Am Cyberkiddle, a Red Team enthusiast with a strong focus on offensive securi
 ## Projects I have ever made.
 > Visite my github
 {: .prompt-tip }
+> Monitoring Software powered by AI
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a064f58e-9a34-41a0-afeb-6a4db445c983" />
+
 
 
 ---
