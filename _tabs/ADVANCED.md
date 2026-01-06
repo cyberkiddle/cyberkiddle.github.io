@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-title: Whoami
+title: Modules
 icon: fas  fa-lock
 tags: [Kiddle]
 order: 4
