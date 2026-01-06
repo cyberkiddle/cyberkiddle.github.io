@@ -9,5 +9,5 @@ order: 4
 ## Advanced Penetration testing
 
 ```
-You ont have access to this module only for internal. cyberkiddle.com and calm your reward.
+You dont have access to this module only for internal. cyberkiddle.com and calm your reward.
 ```
