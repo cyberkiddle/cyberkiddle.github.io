@@ -38,7 +38,10 @@ Hi Am Cyberkiddle, a Red Team enthusiast with a strong focus on offensive securi
 
 
 > CWL Certified Red Team Analyst - CRTA
-{: .prompt-danger }
+{: .prompt-tip }
+> [69964d62398414f740f6417e (1).pdf](https://github.com/user-attachments/files/25402350/69964d62398414f740f6417e.1.pdf)
+<img width="1208" height="852" alt="image" src="https://github.com/user-attachments/assets/9e9deab4-1a1e-4bba-a627-53b2cf4490d4" />
+
 
 > PT1 TryHack me
 {: .prompt-tip }
