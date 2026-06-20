@@ -13,6 +13,8 @@ name: kid
 password: 123456
 
 open source code and find the password signin the token is 
+<img width="1920" height="1066" alt="image" src="https://github.com/user-attachments/assets/496dd008-f16b-4f4c-a315-29fb98dc8a57" />
+
 ```
 pumpkin
 ```
