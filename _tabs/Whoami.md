@@ -1,14 +1,14 @@
 ---
 # the default layout is 'page'
-title: Whoami
+title: About me
 icon: fas fa-info-circle
 tags: [Kiddle]
 order: 4
 image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzgLSbmgYxJMTJcUwssl1hmgjJjLsURQsWjg&s"
 ---
 
-### Rodgers Omben
-> Red teaming kiddle
+### Cyberkid
+> Red teamer
 {: .prompt-danger }
 
 
