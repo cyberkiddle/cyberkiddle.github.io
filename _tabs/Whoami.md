@@ -53,15 +53,9 @@ Hi Am Cyberkiddle, a Red Team enthusiast with a strong focus on offensive securi
 
 ---
 
-- Contact Whatsapp
-> +255688115216
-{: .prompt-tip }
 
-> Telegram
-Join: https://t.me/cyberkid_rona_planet
-{: .prompt-danger }
 > Website
-Join: https://cyberkiddle.com
+Join: https://exploitroom.com
 {: .prompt-danger }
 
 ---
