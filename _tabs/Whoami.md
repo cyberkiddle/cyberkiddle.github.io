@@ -36,8 +36,8 @@ Hi Am Cyberkiddle, a Red Team enthusiast with a strong focus on offensive securi
 
 
 > CWL Certified Red Team Analyst - CRTA
+> https://github.com/user-attachments/assets/9e9deab4-1a1e-4bba-a627-53b2cf4490d4
 {: .prompt-tip }
-<img width="1208" height="852" alt="image" src="https://github.com/user-attachments/assets/9e9deab4-1a1e-4bba-a627-53b2cf4490d4" />
 
 
 > PT1 TryHack me
