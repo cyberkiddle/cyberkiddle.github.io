@@ -4,7 +4,7 @@ title: Hack the planet
 date: 09-05-2025
 categories: [medium]
 tags: [commandinjection, wget]
-image: "https://blogs.blackberry.com/content/dam/blogs-blackberry-com/images/blogs/2024/06/supply-chain-article-875x530.jpg"
+image: "https://ichef.bbci.co.uk/images/ic/480xn/p0257vk5.jpg.webp"
 ---
 
 > Hi kiddle lets move into hacking world.
